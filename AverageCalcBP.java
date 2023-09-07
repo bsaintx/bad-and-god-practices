@@ -1,4 +1,7 @@
-// Código com má prática
+/**
+ *      Código poluído com linhas desnecessárias.
+ *      Code cluttered with unnecessary lines.
+ */
 
 import java.util.Locale;
 import java.util.Scanner;
