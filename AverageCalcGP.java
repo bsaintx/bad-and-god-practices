@@ -1,3 +1,8 @@
+/**
+ * Código mais limpo, coerente e separado por seções.
+ * Cleaner, more cohesive, and sectioned code.
+ */
+
 import java.util.Locale;
 import java.util.Scanner;
 
